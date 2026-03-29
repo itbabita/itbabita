@@ -23,10 +23,10 @@ To start my career as a Software Developer where I can apply my skills, learn ne
 - JavaScript (ES6)
 - HTML5
 - CSS3
+- Bootstrap
 - React.js Projects
 
 ## 📫 Contact Me
 - Email: itbabita.tech@gmail.com
 - LinkedIn: https://www.linkedin.com/in/babita-chauhan-992568223/
 
-- 
