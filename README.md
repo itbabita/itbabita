@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Babita Chauhan
 
-<!--
-**itbabita/itbabita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student (2023–2026) 
+  Polytechnic Diploma in Electrical Engineering-2021
+💻 Aspiring Software Developer (Frontend)  
 
-Here are some ideas to get you started:
+I am passionate about building responsive and user-friendly web applications using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- HTML, CSS, JavaScript
+- React.js
+- Git & GitHub
+
+## 📌 Projects
+- To-Do List App (Task management using JavaScript)
+- Quiz Website (Dynamic questions with score tracking)
+- Memory Game (Interactive card matching game)
+
+## 🎯 Career Objective
+To start my career as a Software Developer where I can apply my skills, learn new technologies, and contribute to real-world projects.
+
+## 📚 Good Knowledge
+- JavaScript (ES6)
+- HTML5
+- CSS3
+- React.js Projects
+
+## 📫 Contact Me
+- Email: itbabita.tech@gmail.com
+- LinkedIn: https://www.linkedin.com/in/babita-chauhan-992568223/
+
+- 
