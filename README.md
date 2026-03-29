@@ -2,7 +2,7 @@
 
 🎓 BCA Student (2023–2026) 
  👩‍🎓Polytechnic Diploma in Electrical Engineering-2021
-💻 Aspiring Software Developer (Frontend)  
+💻 Aspiring Software Developer 
 
 I am passionate about building responsive and user-friendly web applications using modern technologies.
 
