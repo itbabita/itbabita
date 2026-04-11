@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Babita Chauhan
 
-🎓 BCA Student (2023–2026) 
+🎓 BCA (2023–2026) 
  👩‍🎓Polytechnic Diploma in Electrical Engineering-2021
 💻 Aspiring Software Developer 
 
